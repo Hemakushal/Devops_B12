@@ -1,3 +1,0 @@
-hello this is test file edited in git_bash
-
-trail
